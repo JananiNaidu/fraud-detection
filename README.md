@@ -48,3 +48,10 @@ fraud-detection/
 1. Install dependencies: `pip install -r requirements.txt`
 2. Add dataset to `data/raw/creditcard.csv`
 3. Run: `python main.py`
+## Output Results
+
+### Confusion Matrix
+![Confusion Matrix](reports/figures/confusion_matrix_Best%20Model.png)
+
+### ROC Curve
+![ROC Curve](reports/figures/roc_curve_Best%20Model.png)
