@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+*.pkl
+data/raw/
+data/processed/
+fraud-detection/
+.env
+.vscode/
+*.log
+*.zip
+*.csv
